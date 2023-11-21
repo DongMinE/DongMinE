@@ -8,9 +8,10 @@
 <br>
  
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anwjr41"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongMinE&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
 
+[![DongMinE's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongMinE&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/DongMinE/github-readme-stats)
 </div>
+
 
 <div align="center">
 
