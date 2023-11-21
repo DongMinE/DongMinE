@@ -5,22 +5,14 @@
 🎓 공주대학교 컴퓨터공학부 졸업</br>
 🔎 삼성 청년 SW 아카데미 (SSAFY) 9기 </br>
 
-## 🎈 저는요! 🎈
-
-🍕 맛있는 개발자가 되고 싶습니다</br>
-📷 사진 찍는것을 좋아합니다</br>
-🎞 영상 만드는 것을 좋아합니다
-
 <br>
  
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anwjr41"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongMinE&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+
 </div>
 
 <div align="center">
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anwjr41"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongMinE&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
-</div>
-
-<div  align="center">
 
 ### 🛠 Back-End 🛠
 
