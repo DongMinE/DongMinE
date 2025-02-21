@@ -5,12 +5,12 @@
 🎓 공주대학교 컴퓨터공학부 졸업</br>
 🔎 삼성 청년 SW 아카데미 (SSAFY) 9기 </br>
 
-<h3>
+<h3 style="display: flex; align-items: center;">
  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png" style="width:30px;"/>
  https://velog.io/@dongmin/posts
 </h2>
-<h3>
- <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png"/>
+<h3 style="display: flex; align-items: center;">
+ <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png" style="width:30px;"/>
  https://www.instagram.com/anwjr4147/
 </h2>
 
