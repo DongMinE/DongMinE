@@ -6,7 +6,7 @@
 🔎 삼성 청년 SW 아카데미 (SSAFY) 9기 </br>
 
 <h3>
- <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png"/>
+ <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png" style="width:10px;"/>
  https://velog.io/@dongmin/posts
 </h2>
 <h3>
