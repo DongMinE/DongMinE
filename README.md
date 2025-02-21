@@ -5,7 +5,8 @@
 🎓 공주대학교 컴퓨터공학부 졸업</br>
 🔎 삼성 청년 SW 아카데미 (SSAFY) 9기 </br>
 
-<h3>김동민의 벨로그: https://velog.io/@dongmin/posts</h2>
+<h3>Velog: https://velog.io/@dongmin/posts</h2>
+<h3>: [https://velog.io/@dongmin/posts](https://www.instagram.com/anwjr4147/)</h2>
 
 <br>
  
